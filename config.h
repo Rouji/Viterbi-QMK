@@ -31,3 +31,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define RGBLIGHT_SAT_STEP 8
 #define RGBLIGHT_VAL_STEP 8
 #define SPLIT_USB_DETECT
+#define RETRO_TAPPING
+#define IGNORE_MOD_TAP_INTERRUPT
+#define PERMISSIVE_HOLD
